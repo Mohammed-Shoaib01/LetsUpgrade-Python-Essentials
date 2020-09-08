@@ -16,6 +16,8 @@ while i<702648265:
 		f=f+1
 		break
 	i+=1
-if f==1:
+if f!=1:
 	print("There are no armstrong numbers between 1042000 and 702648265")
+#Output:
+
 #There are no Amrstrong numbers between 1042000 and 702648265
